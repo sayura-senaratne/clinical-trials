@@ -1,1 +1,0 @@
-This ipynb file contains searching algorithms for independent Two-Stage Clinical Trial design that follow Normally distributed treatments with comparison against a control when variance is common and known. Case 1 occurs when overall power of the test is fixed and case 2 occurs when overall power and stage-2 power is fixed.
